@@ -1,0 +1,2 @@
+# squidarbot
+Bot
